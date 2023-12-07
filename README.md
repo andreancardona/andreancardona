@@ -6,4 +6,4 @@ Hi && Hola :wave:
 
 :coffee: I like chatting with folks about: tech things | a11y | career & mentorship | diversity & inclusion | really just anything
 
-:magic_wand: Contact me here: cardona.n.andrea@gmail.com
+Contact me here: cardona.n.andrea@gmail.com
